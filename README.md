@@ -16,14 +16,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="![image](https://user-images.githubusercontent.com/98760302/226548210-34f80fd9-d058-40b0-9bbf-8ea1ac28136f.png)">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
+  -->
 
-<h3 align="center">DDoS Detection and Mitigation using SDN</h3>
+<h3 align="center"> DDoS-Mitigation-and-Detection in SDN using Machine Learning </h3>
 
   <p align="center">
     Detecting and mitigating High and Low rate DDoS attacks on cloud computing infrastructure using Software Defined Networks
@@ -58,7 +59,8 @@
 
 ## About The Project
 
-[![DDoS Detection and Mitigation][product-screenshot]]()
+![image](https://user-images.githubusercontent.com/98760302/226548573-0a27c473-96de-45f7-afb5-84e524783da9.png)
+
 
 Of all the malicious things happening online, DDoS is one of the most dangerous and threatening attacks. It can flood the network and block the access to the server by overwhelming it through the transmission of large volumes of packets. This results in the unavailability of services at the customer's end.
 
@@ -150,4 +152,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: Cover.png![Cover](https://user-images.githubusercontent.com/98760302/226545802-3c89a3cc-2906-4d6a-80d5-0c6ba72e2eff.png)
-![logo](https://user-images.githubusercontent.com/98760302/226545813-d305d5c1-d9fd-4e2f-b16e-cf264af556a3.png)
